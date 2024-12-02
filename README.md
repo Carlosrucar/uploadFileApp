@@ -43,11 +43,6 @@ Esta es una aplicación Laravel para subir y gestionar imágenes.
     php artisan migrate
     ```
 
-6. Inicia el servidor de desarrollo:
-    ```sh
-    php artisan serve
-    ```
-
 ## Uso
 
 ### Subir una Imagen
