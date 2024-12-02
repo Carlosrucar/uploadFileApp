@@ -66,9 +66,6 @@ Esta es una aplicación Laravel para subir y gestionar imágenes.
 
 ![Detalles de la Imagen](/img/captura3.png)
 
-## Contribuir
-
-¡Las contribuciones son bienvenidas! Por favor, abre un issue o un pull request.
 
 ## Licencia
 
